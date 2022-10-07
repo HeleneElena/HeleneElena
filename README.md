@@ -3,10 +3,10 @@
 ## I'm a FrontEnd Developer
 - 🔭 I’m currently working on WTG_web
 - 🌱 I’m currently learning React/Redux.
-💪 I like to write code
-🎉 I love to travel
-🥅 I am constantly learning new things
-⚡ I love writing books
+- 💪 I like to write code
+- 🎉 I love to travel
+- 🥅 I am constantly learning new things
+- ⚡ I love writing books
 
 ### Languages and Tools:
 
