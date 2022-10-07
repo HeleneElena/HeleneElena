@@ -19,10 +19,9 @@
 
 
 <br />
-<br />
-## My statistics
 
 <details>
+   <summary>:zap: My statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeleneElena&langs_count=8&layout=compact" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HeleneElena&show_icons=true" />
