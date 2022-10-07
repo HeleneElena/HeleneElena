@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Helene
 
-## I'm a FrontEnd Developer
+##№ I'm a FrontEnd Developer
 - 🔭 I’m currently working on WTG_web
 - 🌱 I’m currently learning React/Redux.
 - 💪 I like to write code
@@ -17,8 +17,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-### My Books:
-- [Шпаргалки начинающего верстальщика HTML/CSS](https://ridero.ru/books/shpargalki_dlya_nachinayushego_verstalshika_html_css/)
-- [Как заработать в Интернете?](https://ridero.ru/books/kak_zarabotat_v_internete_2/)
-- [Немецкий язык. Эффективные методы изучения](https://ridero.ru/books/nemeckii_yazyk_1/)
-- [Курсовая работа. Пишем быстро и просто](https://ridero.ru/books/kursovaya_rabota/)
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeleneElena&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HeleneElena&show_icons=true" />
+</details>
