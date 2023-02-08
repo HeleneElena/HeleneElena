@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Helene
 
 ## I'm a FrontEnd Developer
-- 🔭 I’m currently working on WTG_web
-- 🌱 I’m currently learning React/Redux.
 - 💪 I like to write code
 - 🎉 I love to travel
 - 🥅 I am constantly learning new things
